@@ -1,4 +1,4 @@
-### Projeto Inteligência Artificial e Previsões Bancárias
+### Projeto com Inteligência Artificial para identificar e fazer Previsões Bancárias
 
 #### Case: Score de Crédito dos Clientes
 
